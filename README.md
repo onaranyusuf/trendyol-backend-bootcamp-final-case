@@ -103,7 +103,7 @@ A[JSON Verileri Postman'de Eklenir] --> |İstek| Z[Sepet Sıfırlama] --> E[İş
 ####  Download and build the project
 Clone the project:
 ```bash
-  git clone https://github.com/onaranyusuf/shopping-cart.git
+  git clone https://github.com/onaranyusuf/trendyol-backend-bootcamp-final-case.git
 ```
 Go to project path:
 
